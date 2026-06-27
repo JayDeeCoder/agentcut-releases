@@ -6,16 +6,16 @@
         <description>Updates for AgentCut</description>
         <language>en</language>
         <item>
-            <title>Version 0.4.4</title>
-            <pubDate>Fri, 26 Jun 2026 16:24:17 -0700</pubDate>
-            <sparkle:version>59</sparkle:version>
-            <sparkle:shortVersionString>0.4.4</sparkle:shortVersionString>
+            <title>Version 0.4.5</title>
+            <pubDate>Fri, 26 Jun 2026 17:31:23 -0700</pubDate>
+            <sparkle:version>60</sparkle:version>
+            <sparkle:shortVersionString>0.4.5</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
             <enclosure
-                url="https://github.com/JayDeeCoder/agentcut-releases/releases/download/v0.4.4/AgentCut.dmg"
-                length="32991750"
+                url="https://github.com/JayDeeCoder/agentcut-releases/releases/download/v0.4.5/AgentCut.dmg"
+                length="33017166"
                 type="application/octet-stream"
-                sparkle:edSignature="eLigm/e70V9XHk+KTtMF7HFnZmReg+pEKLB2fM7H7OBrX4wZ84XSTvWwR2T7KPEp14mfw5DF20YMojAFehxKCw=="/>
+                sparkle:edSignature="1BXAReuyj6mAseCiad8yoR+0c6fwWPvX/ZxJtF09uTx1jg/Pbrll5lDehAjuN0LMUIyF4jVQdpS/awKzvfvbAw=="/>
         </item>
     </channel>
 </rss>
