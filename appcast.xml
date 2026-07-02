@@ -233,5 +233,17 @@
                 type="application/octet-stream"
                 sparkle:edSignature="jiDOuwSlFGX1lxBCaxzH5MtNaB5iAEohg3TmBYQm6GOHoi4bIhy6697czy/I5zHxP7FmH77kywVny0QIQqwgBg=="/>
         </item>
+        <item>
+            <title>Version 0.5.1</title>
+            <pubDate>Wed, 01 Jul 2026 23:58:07 -0700</pubDate>
+            <sparkle:version>79</sparkle:version>
+            <sparkle:shortVersionString>0.5.1</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>26.0</sparkle:minimumSystemVersion>
+            <enclosure
+                url="https://github.com/JayDeeCoder/agentcut-releases/releases/download/v0.5.1/AgentCut.dmg"
+                length="34429042"
+                type="application/octet-stream"
+                sparkle:edSignature="8MD72u5uf6tC3M9rOVsXuJ/LeBaejUnZP/Wb9IJYNYYuRqaRoqj6SRFz1dYofN5G2lwwYhZai54ZCDkLtkcDAA=="/>
+        </item>
     </channel>
 </rss>
