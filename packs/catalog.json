@@ -7,7 +7,8 @@
       "category": "lut",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/cinematic-luts.zip",
       "bytes": 80554198,
-      "sha256": "afe87822a592938407046f506ee0a7bbd6ca32db08d0667a321f68b4f5f76bdc"
+      "sha256": "afe87822a592938407046f506ee0a7bbd6ca32db08d0667a321f68b4f5f76bdc",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/cinematic-luts.jpg"
     },
     {
       "id": "cta-elements",
@@ -15,7 +16,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/cta-elements.zip",
       "bytes": 1579583688,
-      "sha256": "d76b83f2feea7cc3919b98814da5c92df03587b258245939397173489698ff65"
+      "sha256": "d76b83f2feea7cc3919b98814da5c92df03587b258245939397173489698ff65",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/cta-elements.jpg"
     },
     {
       "id": "royalty-free-music-vol01",
@@ -23,7 +25,8 @@
       "category": "music",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/royalty-free-music-vol01.zip",
       "bytes": 1931553502,
-      "sha256": "394fb63de682bbd905766f6dc28efcf11f5f924ea7fb2ec05583c0e31027f466"
+      "sha256": "394fb63de682bbd905766f6dc28efcf11f5f924ea7fb2ec05583c0e31027f466",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/royalty-free-music-vol01.png"
     },
     {
       "id": "royalty-free-music-vol02",
@@ -31,7 +34,8 @@
       "category": "music",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/royalty-free-music-vol02.zip",
       "bytes": 1923341682,
-      "sha256": "f34a2bb6e1e95491f0c89d801661db28f21c35ffba37bdf92103e8c931c22571"
+      "sha256": "f34a2bb6e1e95491f0c89d801661db28f21c35ffba37bdf92103e8c931c22571",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/royalty-free-music-vol02.png"
     },
     {
       "id": "royalty-free-music-vol03",
@@ -39,7 +43,8 @@
       "category": "music",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/royalty-free-music-vol03.zip",
       "bytes": 132248046,
-      "sha256": "e9ac3c706700edb397961c78d2c6c79a7eded5e48d1c9f77d1dcc7a7945dc03e"
+      "sha256": "e9ac3c706700edb397961c78d2c6c79a7eded5e48d1c9f77d1dcc7a7945dc03e",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/royalty-free-music-vol03.png"
     },
     {
       "id": "sfx-library-vol01",
@@ -47,7 +52,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol01.zip",
       "bytes": 1918325520,
-      "sha256": "afb08c6b69897f6de32df5cb10d1cf2afc40b0739a4a6e0dc73b0b92c4672c84"
+      "sha256": "afb08c6b69897f6de32df5cb10d1cf2afc40b0739a4a6e0dc73b0b92c4672c84",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol01.png"
     },
     {
       "id": "sfx-library-vol02",
@@ -55,7 +61,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol02.zip",
       "bytes": 1912089850,
-      "sha256": "af82bb208a70cec4f0fb78dbe419efe3bcefe5cc6517a90ba94a2c94e49aa7a7"
+      "sha256": "af82bb208a70cec4f0fb78dbe419efe3bcefe5cc6517a90ba94a2c94e49aa7a7",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol02.png"
     },
     {
       "id": "sfx-library-vol03",
@@ -63,7 +70,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol03.zip",
       "bytes": 1902287638,
-      "sha256": "461acc5299f038ab18725c9efd2985554803c1149685c09cd92f84766b3e9a34"
+      "sha256": "461acc5299f038ab18725c9efd2985554803c1149685c09cd92f84766b3e9a34",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol03.png"
     },
     {
       "id": "sfx-library-vol04",
@@ -71,7 +79,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol04.zip",
       "bytes": 1932795770,
-      "sha256": "41e1b5d039ec82ab67397cbffb9aaa6db2aa69516c87bc1f48f97dd481e4c441"
+      "sha256": "41e1b5d039ec82ab67397cbffb9aaa6db2aa69516c87bc1f48f97dd481e4c441",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol04.png"
     },
     {
       "id": "sfx-library-vol05",
@@ -79,7 +88,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol05.zip",
       "bytes": 1931387140,
-      "sha256": "676b9d9f6b2120a702f4c602f93a39694a89d0fa7c9a0c6fb7f694354056a690"
+      "sha256": "676b9d9f6b2120a702f4c602f93a39694a89d0fa7c9a0c6fb7f694354056a690",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol05.png"
     },
     {
       "id": "sfx-library-vol06",
@@ -87,7 +97,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol06.zip",
       "bytes": 1927905988,
-      "sha256": "c42538a969ca21fcbf61161ffdee170dec86e6099e959d4b1d9b9428eef490e0"
+      "sha256": "c42538a969ca21fcbf61161ffdee170dec86e6099e959d4b1d9b9428eef490e0",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol06.png"
     },
     {
       "id": "sfx-library-vol07",
@@ -95,7 +106,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol07.zip",
       "bytes": 1916293658,
-      "sha256": "2e5f489363022ac3ee504fe55b7b89dbb04ccd1c2d72768837d5afcee928c5b0"
+      "sha256": "2e5f489363022ac3ee504fe55b7b89dbb04ccd1c2d72768837d5afcee928c5b0",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol07.png"
     },
     {
       "id": "sfx-library-vol08",
@@ -103,7 +115,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol08.zip",
       "bytes": 1931771750,
-      "sha256": "daf01a2e83843fddfe3407132b9e3444d0701c46ee382cb185840f635afdf3df"
+      "sha256": "daf01a2e83843fddfe3407132b9e3444d0701c46ee382cb185840f635afdf3df",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol08.png"
     },
     {
       "id": "sfx-library-vol09",
@@ -111,7 +124,8 @@
       "category": "sfx",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/sfx-library-vol09.zip",
       "bytes": 1094003808,
-      "sha256": "f4128b931bc076355e8c9f18fba319017d032aee98c0d75e1b044660dbbf0491"
+      "sha256": "f4128b931bc076355e8c9f18fba319017d032aee98c0d75e1b044660dbbf0491",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/sfx-library-vol09.png"
     },
     {
       "id": "stock-videos-vol01",
@@ -119,7 +133,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol01.zip",
       "bytes": 1932412252,
-      "sha256": "55b8d1cf751305d694737bc54c0d569522bdaee29e640c18e7080947103f9bb4"
+      "sha256": "55b8d1cf751305d694737bc54c0d569522bdaee29e640c18e7080947103f9bb4",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol01.jpg"
     },
     {
       "id": "stock-videos-vol02",
@@ -127,7 +142,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol02.zip",
       "bytes": 1736826272,
-      "sha256": "5a3376d16df56d54ac12571c690640b7df986455f829564c0530498de5c3e2d2"
+      "sha256": "5a3376d16df56d54ac12571c690640b7df986455f829564c0530498de5c3e2d2",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol02.jpg"
     },
     {
       "id": "stock-videos-vol03",
@@ -135,7 +151,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol03.zip",
       "bytes": 1931041652,
-      "sha256": "608cfa1fcdff4a7f94f3f1b727da9d327e69b9a009faef87f3d66dbd2ae1eb9e"
+      "sha256": "608cfa1fcdff4a7f94f3f1b727da9d327e69b9a009faef87f3d66dbd2ae1eb9e",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol03.jpg"
     },
     {
       "id": "stock-videos-vol04",
@@ -143,7 +160,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol04.zip",
       "bytes": 1889469527,
-      "sha256": "c06d60ee87cbf4751124b042a6dd54fd5e297e0294f9752d0fcf3071d78f9452"
+      "sha256": "c06d60ee87cbf4751124b042a6dd54fd5e297e0294f9752d0fcf3071d78f9452",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol04.jpg"
     },
     {
       "id": "stock-videos-vol05",
@@ -151,7 +169,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol05.zip",
       "bytes": 1921159500,
-      "sha256": "4beb849ea7648eb5de013e0e18d7e0463a6eff4fa8df5cfa6a80fe20415f9bb3"
+      "sha256": "4beb849ea7648eb5de013e0e18d7e0463a6eff4fa8df5cfa6a80fe20415f9bb3",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol05.jpg"
     },
     {
       "id": "stock-videos-vol06",
@@ -159,7 +178,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol06.zip",
       "bytes": 1815318882,
-      "sha256": "42e83911fde65bced1ce73c8e430f18a029f23c2efb2ad5b7a3c93e800a91f64"
+      "sha256": "42e83911fde65bced1ce73c8e430f18a029f23c2efb2ad5b7a3c93e800a91f64",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol06.jpg"
     },
     {
       "id": "stock-videos-vol07",
@@ -167,7 +187,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol07.zip",
       "bytes": 1931510842,
-      "sha256": "a6e6b7f47fcdbe47924cf68a2f4628ef871269099f69e8f7fa197e57552bb18c"
+      "sha256": "a6e6b7f47fcdbe47924cf68a2f4628ef871269099f69e8f7fa197e57552bb18c",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol07.jpg"
     },
     {
       "id": "stock-videos-vol08",
@@ -175,7 +196,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol08.zip",
       "bytes": 1904351807,
-      "sha256": "0fabaf6218622bf6c210743f9b90f549edcc7483818c026224f725262ec32738"
+      "sha256": "0fabaf6218622bf6c210743f9b90f549edcc7483818c026224f725262ec32738",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol08.jpg"
     },
     {
       "id": "stock-videos-vol09",
@@ -183,7 +205,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol09.zip",
       "bytes": 1890009507,
-      "sha256": "7b5a4dda5eb9d412690e9c5e9ef844180ca355880ac4b0a7b34cb51242efad83"
+      "sha256": "7b5a4dda5eb9d412690e9c5e9ef844180ca355880ac4b0a7b34cb51242efad83",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol09.jpg"
     },
     {
       "id": "stock-videos-vol10",
@@ -191,7 +214,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol10.zip",
       "bytes": 1848193861,
-      "sha256": "3a6e1f9c6c15101694bd4af555745f3124558500bd0fde45562122cc72ba3b81"
+      "sha256": "3a6e1f9c6c15101694bd4af555745f3124558500bd0fde45562122cc72ba3b81",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol10.jpg"
     },
     {
       "id": "stock-videos-vol11",
@@ -199,7 +223,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol11.zip",
       "bytes": 1906818688,
-      "sha256": "d6030c18ae311f9b4f7592fc6ae3b39800ad070be8bc0b2bcc00fb1d7270a25b"
+      "sha256": "d6030c18ae311f9b4f7592fc6ae3b39800ad070be8bc0b2bcc00fb1d7270a25b",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol11.jpg"
     },
     {
       "id": "stock-videos-vol12",
@@ -207,7 +232,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol12.zip",
       "bytes": 1762000640,
-      "sha256": "9af11da5a6c74bfa922df9cedf9b0e4011b5045649bf9533b9b30b1aed2fc044"
+      "sha256": "9af11da5a6c74bfa922df9cedf9b0e4011b5045649bf9533b9b30b1aed2fc044",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol12.jpg"
     },
     {
       "id": "stock-videos-vol13",
@@ -215,7 +241,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol13.zip",
       "bytes": 1753312035,
-      "sha256": "6cc0c88a73309b8abb6dfac47664cbb72251ebce4f42b05154ec137b49d53467"
+      "sha256": "6cc0c88a73309b8abb6dfac47664cbb72251ebce4f42b05154ec137b49d53467",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol13.jpg"
     },
     {
       "id": "stock-videos-vol14",
@@ -223,7 +250,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol14.zip",
       "bytes": 1759340679,
-      "sha256": "a6139788f8425d19b9b7ef490735838c9f3c25bd2a15bc2d4aa9d975460cb600"
+      "sha256": "a6139788f8425d19b9b7ef490735838c9f3c25bd2a15bc2d4aa9d975460cb600",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol14.jpg"
     },
     {
       "id": "stock-videos-vol15",
@@ -231,7 +259,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol15.zip",
       "bytes": 1673845923,
-      "sha256": "9ee13e18712cc4093e8471f5b67200bc8bad36e1800aebda0217595b2a4d99c6"
+      "sha256": "9ee13e18712cc4093e8471f5b67200bc8bad36e1800aebda0217595b2a4d99c6",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol15.jpg"
     },
     {
       "id": "stock-videos-vol16",
@@ -239,7 +268,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol16.zip",
       "bytes": 1785692916,
-      "sha256": "80d591c73011dc37a03e254ed4d3c6a8ca1f25ea1dfb89560183428575da84b4"
+      "sha256": "80d591c73011dc37a03e254ed4d3c6a8ca1f25ea1dfb89560183428575da84b4",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol16.jpg"
     },
     {
       "id": "stock-videos-vol17",
@@ -247,7 +277,8 @@
       "category": "stock",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/stock-videos-vol17.zip",
       "bytes": 935226375,
-      "sha256": "11314dca13719976d3f42685117d19d9f430192d71522489618cbc253cb85d85"
+      "sha256": "11314dca13719976d3f42685117d19d9f430192d71522489618cbc253cb85d85",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/stock-videos-vol17.jpg"
     },
     {
       "id": "color-elements",
@@ -255,7 +286,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/color-elements.zip",
       "bytes": 1524832069,
-      "sha256": "06d61aecdec8a7ef373d821ea64a730b6cccc2f157e17396dc59ca06abf37069"
+      "sha256": "06d61aecdec8a7ef373d821ea64a730b6cccc2f157e17396dc59ca06abf37069",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/color-elements.jpg"
     },
     {
       "id": "transitions-glitch",
@@ -263,7 +295,8 @@
       "category": "transition",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/transitions-glitch.zip",
       "bytes": 26017946,
-      "sha256": "b63bba82a50020f7947366a15f341664e3458a3105e9758693b8507f7381f392"
+      "sha256": "b63bba82a50020f7947366a15f341664e3458a3105e9758693b8507f7381f392",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/transitions-glitch.jpg"
     },
     {
       "id": "flares-leaks",
@@ -271,7 +304,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/flares-leaks.zip",
       "bytes": 565798040,
-      "sha256": "f910ec933debd8e44901d22ad7bf1d2f489b39c9d36d12402813eb83b3740d83"
+      "sha256": "f910ec933debd8e44901d22ad7bf1d2f489b39c9d36d12402813eb83b3740d83",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/flares-leaks.jpg"
     },
     {
       "id": "lens-flares-2-vol01",
@@ -279,7 +313,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/lens-flares-2-vol01.zip",
       "bytes": 1930693699,
-      "sha256": "58961ea26344654d3d25700eb25d8cf3de8ec108bf5ac7b0d4a5fd0ef0473e53"
+      "sha256": "58961ea26344654d3d25700eb25d8cf3de8ec108bf5ac7b0d4a5fd0ef0473e53",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/lens-flares-2-vol01.jpg"
     },
     {
       "id": "lens-flares-2-vol02",
@@ -287,7 +322,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/lens-flares-2-vol02.zip",
       "bytes": 176534978,
-      "sha256": "9fce2922dba0a16a86d516c4ea55d460e4bd891c6d516ad1d15a9f08baea02fb"
+      "sha256": "9fce2922dba0a16a86d516c4ea55d460e4bd891c6d516ad1d15a9f08baea02fb",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/lens-flares-2-vol02.jpg"
     },
     {
       "id": "neon-shapes",
@@ -295,7 +331,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/neon-shapes.zip",
       "bytes": 301181143,
-      "sha256": "ca363f6558c6096e9db5172312e1a101527c911849f86508eb6f1bbf3e2e3763"
+      "sha256": "ca363f6558c6096e9db5172312e1a101527c911849f86508eb6f1bbf3e2e3763",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/neon-shapes.jpg"
     },
     {
       "id": "old-film",
@@ -303,7 +340,8 @@
       "category": "texture",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/old-film.zip",
       "bytes": 216281186,
-      "sha256": "4f2cec92fde9fc16bfb09070bda64ac30214f80453db50009053693773c3f71e"
+      "sha256": "4f2cec92fde9fc16bfb09070bda64ac30214f80453db50009053693773c3f71e",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/old-film.jpg"
     },
     {
       "id": "split-frames",
@@ -311,7 +349,8 @@
       "category": "overlay",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/split-frames.zip",
       "bytes": 1470973513,
-      "sha256": "b7d6506683fe0768b185b7b6f39be542fb6790de29c962345edd1f659dd9e39b"
+      "sha256": "b7d6506683fe0768b185b7b6f39be542fb6790de29c962345edd1f659dd9e39b",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/split-frames.jpg"
     },
     {
       "id": "transitions-core",
@@ -319,7 +358,8 @@
       "category": "transition",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/transitions-core.zip",
       "bytes": 235127075,
-      "sha256": "aeaa43a6c1e2a0bfc86bd57e344b48e5a7fb183f59511ad0eb0bac82f6dae2be"
+      "sha256": "aeaa43a6c1e2a0bfc86bd57e344b48e5a7fb183f59511ad0eb0bac82f6dae2be",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/transitions-core.jpg"
     },
     {
       "id": "vhs-retro",
@@ -327,7 +367,8 @@
       "category": "texture",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/vhs-retro.zip",
       "bytes": 451841302,
-      "sha256": "b557694678fe0e43aaa9657c400f9cdcdd1df5169dea72e99b240b394024f7e9"
+      "sha256": "b557694678fe0e43aaa9657c400f9cdcdd1df5169dea72e99b240b394024f7e9",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/vhs-retro.jpg"
     },
     {
       "id": "vintage-fx",
@@ -335,7 +376,8 @@
       "category": "texture",
       "url": "https://github.com/JayDeeCoder/agentcut-releases/releases/download/packs-v1/vintage-fx.zip",
       "bytes": 77475286,
-      "sha256": "80d4bc44e0cfde473b7f06c343936236a1867e78e6bd008632d7a44b0c53ef0b"
+      "sha256": "80d4bc44e0cfde473b7f06c343936236a1867e78e6bd008632d7a44b0c53ef0b",
+      "thumbnailURL": "https://raw.githubusercontent.com/JayDeeCoder/agentcut-releases/main/packs/thumbs/vintage-fx.jpg"
     }
   ]
 }
